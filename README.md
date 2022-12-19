@@ -1,1 +1,1 @@
-# Brain_MRI_Images
+# Brain Tumor Classification using CNN and Transfer Learning approach
